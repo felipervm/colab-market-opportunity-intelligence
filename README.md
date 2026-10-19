@@ -22,7 +22,7 @@ Check JavaScript syntax: `node --check app.js`.
 Use a four-week discovery sprint to compare one adjacent industrial equipment lane with automotive and aerospace benchmarks, using evidence from internal functions before committing resources. Update the ranking with verified inputs. If internal data disagrees, change the decision.
 
 ## Sources
-See `data/sources.json`, and direct references linked on the page. All images and interface art are original HTML/CSS; this page is not CoLab-sponsored.
+See `data/sources.json`, and direct references linked on the page. CoLab product visuals, logo and Sharp Sans typography are sourced from its public website. CoLab retains ownership; this case is not sponsored or endorsed by CoLab.
 
 ## Career framing
 Felipe Mattos · [LinkedIn](https://www.linkedin.com/in/felipervm) · felipervm22@gmail.com. This case is a portfolio sample demonstrating research, ambiguity handling, strategy framing, business communication and analytical rigor—not an official product proposal.
@@ -36,3 +36,9 @@ Felipe Mattos · [LinkedIn](https://www.linkedin.com/in/felipervm) · felipervm2
 - **Action:** an explicit 4-week validation plan, stopping rules and evidence that would change the decision.
 
 **Important limitation:** No customer interviews, internal pipeline, competitive win/loss data, market-size study, or internal CoLab access were available. These are inputs to gather, not results of this case.
+
+
+## Updated public-source review (October 19, 2026)
+The current customer page includes Structure Medical. The earlier statement that no named medical example was verified is superseded. The illustrative medical public-evidence rating is now 3/5; it remains an analyst judgment.
+
+Three weighting scenarios make sensitivity inspectable: baseline [25,25,20,15,15], evidence first [15,45,15,10,15], learn faster [15,10,15,25,35]. All-zero weights produce no ranking. The default industrial-equipment score leads automotive by only 0.05/5, not a decisive result. Evidence-led weights can reverse the ranking. Ties are explicitly shown as ties.
